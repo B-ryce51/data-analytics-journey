@@ -12,3 +12,5 @@ My experience includes tournament operations, budget management, stakeholder coo
 Google Data Analytics Professional Certificate
 ## Goal
 Become application-ready for entry-level analyst roles by January 2027.
+## Progress
+[View my learning progresss](progress-log.md)
