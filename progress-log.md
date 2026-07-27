@@ -9,3 +9,10 @@
 - Assessment score: 78% first attempt, 100% second attempt
 - Created the data-analytics-journey repository
 - Added an introductory README
+### July 26, 2026
+- Completed Module 2
+- Scored 95% on th assessment on my first attempt
+- Completed a Module 3 spreadsheet and data visualization activity
+- Analyzed monthly business activity and identified December through February as the busiest period
+- Recommmended increasing staffing and inventory during the peak season
+- Connected the seasonality patter to similar business trends I have observed at 5 Iron Golf
